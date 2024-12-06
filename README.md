@@ -7,10 +7,6 @@
 <h2> :page_with_curl: Certifications</h2> 
 - <a href="https://coddy.tech/certifications/f5mtiK-cTiZhY">[HTML Fundamentals]</a>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into coding Starting From Zero]
-
 
 <h2> 🤳 Connect with me:</h2>
 
